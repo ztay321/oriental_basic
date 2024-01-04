@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "539399662422",
+    "project_id": "orientalnew-f760b",
+    "storage_bucket": "orientalnew-f760b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539399662422:android:d76ae7480c963d196584f7",
+        "android_client_info": {
+          "package_name": "com.example.orientalnew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB1RCs0qYRYzjSTG6wSNfJVGwGeUhympI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
